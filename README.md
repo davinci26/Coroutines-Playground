@@ -1,9 +1,9 @@
-## Introduction to Coroutines for C++
+# Introduction to Coroutines for C++
 
-Table of Contents
-====
+### Table of Contents
 
 - [Introduction to Coroutines for C++](#introduction-to-coroutines-for-c)
+- [Useful Information](#useful-information)
     - [Acknowledgments](#acknowledgments)
     - [Building the Code](#building-the-code)
 - [Coroutines Concepts](#coroutines-concepts)
@@ -12,7 +12,9 @@ Table of Contents
     - [Keyword: co_return & co_yield](#keyword-co_return--co_yield)
 - [Other References](#other-references)
 
+## Useful Information
 ### Acknowledgments
+
 Before we start it should be mentioned that this repo is merely a combination of the following resources:
 - [CppCon 2016: James McNellis “Introduction to C++ Coroutines"](https://www.youtube.com/watch?v=ZTqHjjm86Bw&)
 - [How C++ coroutines work](https://kirit.com/How%20C%2B%2B%20coroutines%20work)
