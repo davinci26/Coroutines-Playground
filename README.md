@@ -20,7 +20,7 @@ Before we start it should be mentioned that this repo is merely a combination of
 - [How C++ coroutines work](https://kirit.com/How%20C%2B%2B%20coroutines%20work)
 - Notes I took while reading the resources above
 
-*Disclaimer*: All the good parts in this repository should be accredited to the James McNellis and Kirit Sælensminde (authors of the above) and all of the mistakes/bugs are due to insfuccient understanding of coroutines from my side.
+*Disclaimer*: All the good parts in this repository should be accredited to James McNellis and Kirit Sælensminde (authors of the above) and all of the mistakes/bugs are due to insfuccient understanding of coroutines from my side.
 
 ### Building the Code
 
